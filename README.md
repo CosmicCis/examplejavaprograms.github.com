@@ -1,1 +1,1 @@
-# examplejavaprograms.github.com
+# examplejavaprograms.github.io
